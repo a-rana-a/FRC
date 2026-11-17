@@ -1,11 +1,20 @@
-## Welcome to Rana's personal FRC Command-Based Java engineering sandbox!
+# FRC Command-Based Java Sandbox
+This project is a codebase built in Java using WPILib 2026 framework that makes the robot run.
 
-**I am developing this sofware on:**  
+## Purpose
+- Demonstrate Object-Oriented Principles (OOP) principles applied to real-life robotics.
+- Learn command based programming's foundations.
+- Serve as a reference for 2027 season and learning lof for modular FRC software design.
+
+## Development Envirement & Prerequsities
 - OS: Linux Mint 22.3 x86_64 
 - Language: Java
 - Framework: WPILib 2026
 - Build Tool: Gradle
 
-**Phase 1 Log**
-1. I set up WPILib, VS Code for WPILib through [[here](https://github.com/wpilibsuite/allwpilib/releases#release-v2026.2.1)].
-2. I added base Command-Based template through command palette.
+## Resources
+- [WPIlib Official Documentation - Stable Version](https://docs.wpilib.org/en/stable/)
+- [Developer Log](docs/dev-log.md)
+
+## Maintainer
+> This repository is created by [Rana AÇAR](https://github.com/a-rana-a)
