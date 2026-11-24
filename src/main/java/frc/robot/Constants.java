@@ -16,4 +16,10 @@ public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
   }
+
+  public static class ShooterConstants {
+    public static final int kMotorChannel = 1;
+    public static final double kMaxSpeed = 0.7;
+    public static final int kMaxBallsPerSec = 5;
+  }
 }
